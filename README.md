@@ -11,7 +11,7 @@ https://movie-recommend-vk.streamlit.app
 Pull or download the code
 
 ```
-git clone https://github.com/ihmily/outfit-anyone.git
+git clone https://github.com/VivekAttri01/movie-recommend.git
 ```
 
 Install dependencies
