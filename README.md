@@ -21,11 +21,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-~~**Set up the environment variable**~~
 
-```
-
-```
 
 Run
 
@@ -37,7 +33,7 @@ Success log
 
 ```
 
-Running on local URL:  http://8502
+Running on local URL:  localhost:8502
 ```
 
-Please visit http://127.0.0.1:6006 to web. 
+Please visit localhost:8502 to web. 
